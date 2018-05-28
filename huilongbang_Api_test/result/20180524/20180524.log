@@ -1,0 +1,48 @@
+2018-05-24 11:20:16,292 - sg_color_logger - INFO - INFO ∂¡»°caselist¡–±Ì ˝æ›£∫user/testLogin_Api
+
+2018-05-24 11:20:16,292 - sg_color_logger - INFO - INFO ∂¡»°caselist¡–±Ì ˝æ›£∫#user/testLogin
+
+2018-05-24 11:20:16,292 - sg_color_logger - INFO - INFO ∂¡»°caselist¡–±Ì ˝æ›£∫#user/testRegister
+
+2018-05-24 11:20:16,292 - sg_color_logger - INFO - INFO ∂¡»°caselist¡–±Ì ˝æ›£∫#user/testRegisterQuick
+
+2018-05-24 11:20:16,292 - sg_color_logger - INFO - INFO ∂¡»°caselist¡–±Ì ˝æ›£∫#user/testGenerate
+
+2018-05-24 11:20:16,292 - sg_color_logger - INFO - INFO ∂¡»°caselist¡–±Ì ˝æ›£∫#user/testLoginFB
+
+2018-05-24 11:20:16,292 - sg_color_logger - INFO - INFO ∂¡»°caselist¡–±Ì ˝æ›£∫#user/testLogout
+
+2018-05-24 11:20:16,292 - sg_color_logger - INFO - INFO ∂¡»°caselist¡–±Ì ˝æ›£∫#user/testAccountSetting
+
+2018-05-24 11:20:16,292 - sg_color_logger - INFO - INFO ∂¡»°caselist¡–±Ì ˝æ›£∫#user/testUpdatePassword
+
+2018-05-24 11:20:16,292 - sg_color_logger - INFO - INFO ∂¡»°caselist¡–±Ì ˝æ›£∫#user/testUploadImg
+
+2018-05-24 11:20:16,292 - sg_color_logger - INFO - INFO ∂¡»°caselist¡–±Ì ˝æ›£∫#user/testGetAddressList
+
+2018-05-24 11:20:16,292 - sg_color_logger - INFO - INFO ∂¡»°caselist¡–±Ì ˝æ›£∫#user/testGetAddress
+
+2018-05-24 11:20:16,293 - sg_color_logger - INFO - INFO ∂¡»°caselist¡–±Ì ˝æ›£∫#product/testGetProductInfo
+
+2018-05-24 11:20:16,293 - sg_color_logger - INFO - INFO ∂¡»°caselist¡–±Ì ˝æ›£∫#user/testAddAddress
+
+2018-05-24 11:20:16,293 - sg_color_logger - INFO - INFO ∂¡»°caselist¡–±Ì ˝æ›£∫#user/testDeleteAddress
+
+2018-05-24 11:20:16,293 - sg_color_logger - INFO - testLogin_Api.py
+2018-05-24 11:20:16,695 - sg_color_logger - INFO - INFO **********ø™ º≤‚ ‘***********
+2018-05-24 11:20:16,695 - sg_color_logger - INFO - INFO «Î«ÛÕ∑–≈œ¢£∫{"Content-Type": "application/x-www-form-urlencoded", "User-Agent": "HUAWEI G7-TL00/Android4.4.2"}
+2018-05-24 11:20:16,695 - sg_color_logger - INFO - INFO Ω”ø⁄µÿ÷∑£∫https://shoptest.hlb.ltd/controller/app/users/getUserByLoginphone
+2018-05-24 11:20:16,695 - sg_color_logger - INFO - INFO ≤Œ ˝£∫{"loginphone": "13602813099"}
+2018-05-24 11:20:16,976 - sg_color_logger - INFO - INFO «Î«ÛÕ∑–≈œ¢£∫{"Content-Type": "application/x-www-form-urlencoded", "User-Agent": "HUAWEI G7-TL00/Android4.4.2"}
+2018-05-24 11:20:16,976 - sg_color_logger - INFO - INFO Ω”ø⁄µÿ÷∑£∫https://shoptest.hlb.ltd/controller/app/users/loginMD5
+2018-05-24 11:20:16,976 - sg_color_logger - INFO - INFO ≤Œ ˝£∫{"login": "{\"loginphone\":\"11133366658\",\"appVersion\":\"1\",\"appType\":\"2\",\"loginpassword\":\"14e1b600b1fd579f47433b88e8d85291\"}", "osVersion": "Android4.4.2", "networkType": "WIFI", "screen": "720*1280", "clientVersion": "1.0", "d_brand": "HUAWEI", "d_model": "HUAWEI G7-TL00"}
+2018-05-24 11:20:17,124 - sg_color_logger - INFO - INFO «Î«ÛÕ∑–≈œ¢£∫{"Content-Type": "application/x-www-form-urlencoded", "User-Agent": "HUAWEI G7-TL00/Android4.4.2"}
+2018-05-24 11:20:17,124 - sg_color_logger - INFO - INFO Ω”ø⁄µÿ÷∑£∫https://shoptest.hlb.ltd/controller/app/users/loginMD5
+2018-05-24 11:20:17,124 - sg_color_logger - INFO - INFO ≤Œ ˝£∫{"login": "{\"loginphone\":\"13926175078\",\"appVersion\":\"1\",\"appType\":\"2\",\"loginpassword\":\"14e1b600b1fd579f47433b88e8d85291\"}", "osVersion": "Android4.4.2", "networkType": "WIFI", "screen": "720*1280", "clientVersion": "1.0", "d_brand": "HUAWEI", "d_model": "HUAWEI G7-TL00"}
+2018-05-24 11:20:17,218 - sg_color_logger - INFO - INFO «Î«ÛÕ∑–≈œ¢£∫{"Content-Type": "application/x-www-form-urlencoded", "User-Agent": "HUAWEI G7-TL00/Android4.4.2"}
+2018-05-24 11:20:17,218 - sg_color_logger - INFO - INFO Ω”ø⁄µÿ÷∑£∫https://shoptest.hlb.ltd/controller/app/users/loginMD5
+2018-05-24 11:20:17,219 - sg_color_logger - INFO - INFO ≤Œ ˝£∫{"login": "{\"loginphone\":\"13926175077\",\"appVersion\":\"1\",\"appType\":\"2\",\"loginpassword\":\"14e1b600b1fd579f47433b88e8d85291\"}", "osVersion": "Android4.4.2", "networkType": "WIFI", "screen": "720*1280", "clientVersion": "1.0", "d_brand": "HUAWEI", "d_model": "HUAWEI G7-TL00"}
+2018-05-24 11:20:17,342 - sg_color_logger - WARNING - *********≤‚ ‘Ω· ¯*********
+2018-05-24 11:26:33,528 - sg_color_logger - WARNING - [33mWARNING lalla[0m
+2018-05-24 11:26:33,529 - sg_color_logger - WARNING - [33mWARNING lalla[0m
+2018-05-24 11:26:33,529 - sg_color_logger - WARNING - [33mWARNING lalla[0m
