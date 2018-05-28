@@ -41,7 +41,7 @@
     <SUITE FILE_PATH="coverage/auto_api_master$Unittests_for_login_Api_Login_api_test_test_login_success.coverage" NAME="Unittests for login_Api.Login_api_test.test_login_success Coverage Results" MODIFIED="1511432936860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huilongbang_Api_test" />
     <SUITE FILE_PATH="coverage/auto_api_master$Unittests_for_testLogin_Api_Login_api_test_test_oldUser_login.coverage" NAME="Unittests for testLogin_Api.Login_api_test.test_oldUser_login Coverage Results" MODIFIED="1511768560654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huilongbang_Api_test/testCase/user" />
     <SUITE FILE_PATH="coverage/auto_api_master$Unittests_for_testLogin_Login_test_shouxin2.coverage" NAME="Unittests for testLogin.Login.test_shouxin2 Coverage Results" MODIFIED="1524042878125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huilongbang_Api_test/testCase/shouxin2" />
-    <SUITE FILE_PATH="coverage/auto_api_master$runAll.coverage" NAME="runAll Coverage Results" MODIFIED="1527476588078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huilongbang_Api_test" />
+    <SUITE FILE_PATH="coverage/auto_api_master$runAll.coverage" NAME="runAll Coverage Results" MODIFIED="1527501585242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huilongbang_Api_test" />
     <SUITE FILE_PATH="coverage/auto_api_master$common.coverage" NAME="common Coverage Results" MODIFIED="1527125968415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core" />
     <SUITE FILE_PATH="coverage/auto_api_master$protocol_runner.coverage" NAME="protocol_runner Coverage Results" MODIFIED="1511422433873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_protocol" />
     <SUITE FILE_PATH="coverage/auto_api_master$Unittests_for_testLogin_Login_test_getMyEcreditAuditInfo.coverage" NAME="Unittests for testLogin.Login.test_getMyEcreditAuditInfo Coverage Results" MODIFIED="1523851403380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huilongbang_Api_test/testCase/shouxin2" />
@@ -51,21 +51,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="testRegister.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/testCase/user/testRegister.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2253">
-              <caret line="14" column="41" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testBuydodoApi.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="testBuydodoApi.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/testCase/buydodo/testBuydodoApi.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="45" column="49" lean-forward="true" selection-start-line="45" selection-start-column="49" selection-end-line="45" selection-end-column="49" />
+            <state relative-caret-position="676">
+              <caret line="45" column="49" lean-forward="false" selection-start-line="45" selection-start-column="49" selection-end-line="45" selection-end-column="49" />
               <folding>
                 <element signature="e#50#71#0" expanded="true" />
               </folding>
@@ -73,24 +63,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="configHttp.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/common/configHttp.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="43" column="47" lean-forward="true" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="runAll.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="runAll.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/runAll.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="70" column="13" lean-forward="true" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
-              <folding>
-                <element signature="e#24#33#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="324">
+              <caret line="12" column="49" lean-forward="true" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -146,12 +124,13 @@
         <option value="$PROJECT_DIR$/huilongbang_Api_test/common/Log.py" />
         <option value="$PROJECT_DIR$/log/mode/color.py" />
         <option value="$PROJECT_DIR$/huilongbang_Api_test/testCase/buydodo/testLogin_inf.py" />
-        <option value="$PROJECT_DIR$/huilongbang_Api_test/runAll.py" />
         <option value="$PROJECT_DIR$/huilongbang_Api_test/test_HTMLTestReportCN.py" />
         <option value="$PROJECT_DIR$/huilongbang_Api_test/caselist.txt" />
         <option value="$PROJECT_DIR$/huilongbang_Api_test/config.ini" />
-        <option value="$PROJECT_DIR$/huilongbang_Api_test/testCase/buydodo/testBuydodoApi.py" />
         <option value="$PROJECT_DIR$/huilongbang_Api_test/common/configHttp.py" />
+        <option value="$PROJECT_DIR$/huilongbang_Api_test/testCase/buydodo/testBuydodoApi.py" />
+        <option value="$PROJECT_DIR$/log/__init__.py" />
+        <option value="$PROJECT_DIR$/huilongbang_Api_test/runAll.py" />
       </list>
     </option>
   </component>
@@ -227,19 +206,6 @@
               <item name="result" type="462c0819:PsiDirectoryNode" />
               <item name="20180528" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="auto_api-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="auto_api-master" type="462c0819:PsiDirectoryNode" />
-              <item name="huilongbang_Api_test" type="462c0819:PsiDirectoryNode" />
-              <item name="testCase" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="auto_api-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="auto_api-master" type="462c0819:PsiDirectoryNode" />
-              <item name="huilongbang_Api_test" type="462c0819:PsiDirectoryNode" />
-              <item name="testCase" type="462c0819:PsiDirectoryNode" />
-              <item name="buydodo" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -255,15 +221,16 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\PyCharm_WorkSpace\auto_api-master\huilongbang_Api_test\testCase\user" />
-      <recent name="D:\PyCharm_WorkSpace\auto_api-master\huilongbang_Api_test\testCase" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PyCharm_WorkSpace\auto_api-master" />
+      <recent name="D:\PyCharm_WorkSpace\auto_api-master\huilongbang_Api_test" />
       <recent name="D:\PyCharm_WorkSpace\auto_api-master\huilongbang_Api_test\testCase\shouxin2" />
       <recent name="D:\PyCharm_WorkSpace\auto_api-master\readHtml" />
       <recent name="D:\PyCharm_WorkSpace\auto_api-master\huilongbang_Api_test\testCase" />
-      <recent name="D:\PyCharm_WorkSpace\auto_api-master\huilongbang_Api_test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PyCharm_WorkSpace\auto_api-master\huilongbang_Api_test\testCase\user" />
+      <recent name="D:\PyCharm_WorkSpace\auto_api-master\huilongbang_Api_test\testCase" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -435,9 +402,9 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2650448" sideWeight="0.4973992" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2650448" sideWeight="0.4973992" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24966533" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17603749" sideWeight="0.50448143" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45710626" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -469,35 +436,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/readHtml/html2text.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="687">
-          <caret line="77" column="0" lean-forward="true" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/result/20171221/output.log" />
-    <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/testCase/LoginAndRegister/testLogin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-559">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1120166012/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-238">
-          <caret line="2024" column="8" lean-forward="false" selection-start-line="2024" selection-start-column="8" selection-end-line="2024" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files/Python36/Lib/site-packages/requests/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="810" column="8" lean-forward="false" selection-start-line="810" selection-start-column="8" selection-end-line="810" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Program Files/Python36/Lib/json/decoder.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
@@ -513,13 +451,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/testCase/shouxin2/testShouxin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/testCase/user/testUpdatePassword.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -527,23 +458,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/auto_protocol/report/report-2017-11-23-15-33-54.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2835">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/auto_protocol/protocol_runner.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/TestRunner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-243">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
@@ -590,6 +507,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="17" column="58" lean-forward="false" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="58" />
+          <folding>
+            <element signature="e#50#71#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -609,13 +529,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/result/20180524/  .log" />
-    <entry file="file://$PROJECT_DIR$/log/log_level.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/core/common.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
@@ -627,34 +540,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-135">
           <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/common/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-324">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log/mode/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/common/MyDB.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1245">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -670,6 +555,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
           <caret line="1272" column="8" lean-forward="false" selection-start-line="1272" selection-start-column="8" selection-end-line="1272" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -677,26 +563,6 @@
       <provider selected="true" editor-type-id="LogFileEditorProvider">
         <state relative-caret-position="-546">
           <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="47" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log/mode/color.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-54">
-          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-          <folding>
-            <element signature="e#47#61#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/testCase/shouxin2/testLogin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2511">
-          <caret line="29" column="36" lean-forward="false" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
-          <folding>
-            <element signature="e#1439#3017#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -712,14 +578,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-120">
           <caret line="67" column="29" lean-forward="true" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/testCase/user/testRegister.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2253">
-          <caret line="14" column="41" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="41" />
           <folding />
         </state>
       </provider>
@@ -772,33 +630,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/readConfig.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="26" column="46" lean-forward="true" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
-          <folding>
-            <element signature="e#25#44#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/result/20180528/20180528.log">
-      <provider selected="true" editor-type-id="LogFileEditorProvider">
-        <state relative-caret-position="-114">
-          <caret line="73" column="53" lean-forward="true" selection-start-line="73" selection-start-column="53" selection-end-line="73" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/runAll.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="70" column="13" lean-forward="true" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
-          <folding>
-            <element signature="e#24#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/common/configHttp.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="398">
@@ -807,13 +638,170 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/readConfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="e#25#44#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/common/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto_protocol/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/testCase/shouxin2/testShouxin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="24" lean-forward="true" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/log_level.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/mode/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/mode/color.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto_protocol/report/report-2017-11-23-15-33-54.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8072">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/TestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-350">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="true" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/common/MyDB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#67#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/testCase/LoginAndRegister/testLogin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-647">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/testCase/shouxin2/testLogin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1593">
+          <caret line="29" column="36" lean-forward="false" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+          <folding>
+            <element signature="e#1439#3017#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/testCase/user/testRegister.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2526">
+          <caret line="110" column="30" lean-forward="true" selection-start-line="110" selection-start-column="30" selection-end-line="110" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/testCase/buydodo/testBuydodoApi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="45" column="49" lean-forward="true" selection-start-line="45" selection-start-column="49" selection-end-line="45" selection-end-column="49" />
+        <state relative-caret-position="676">
+          <caret line="45" column="49" lean-forward="false" selection-start-line="45" selection-start-column="49" selection-end-line="45" selection-end-column="49" />
           <folding>
             <element signature="e#50#71#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/result/20180528/20180528.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="-407">
+          <caret line="54" column="0" lean-forward="true" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/runAll.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="49" lean-forward="true" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+          <folding />
         </state>
       </provider>
     </entry>

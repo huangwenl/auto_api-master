@@ -1,11 +1,18 @@
 # -*- coding: UTF-8 -*-
+import sys
+sys.path.append("D:\\PyCharm_WorkSpace\\auto_api-master\\huiliongbang_Api_test\\")
+sys.path.append("D:\\PyCharm_WorkSpace\\auto_api-master\\common\\")
+sys.path.append("D:\\PyCharm_WorkSpace\\auto_api-master\\result\\")
+sys.path.append("D:\\PyCharm_WorkSpace\\auto_api-master\\")
 import os
 import unittest
 import HTMLTestReportCN
-from huilongbang_Api_test import readConfig
+import readConfig
 from datetime import datetime
-# from huilongbang_Api_test.common.Log import Log
 from log.mode.color import ColorLogger
+# from huilongbang_Api_test.common.Log import Log
+
+
 log = ColorLogger()
 
 
