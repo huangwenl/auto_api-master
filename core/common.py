@@ -3,12 +3,13 @@
 import json
 import re
 import xlrd
-
+import xlsxwriter
+from xlutils.copy import copy
 
 class Common(object):
 
     @staticmethod
-    def api_read_data1(page_name, data_address):
+    def api_read_data(page_name, data_address):
         """ 获取excel数据，并转化成dict
 
         """
@@ -34,7 +35,7 @@ class Common(object):
                 col += 1
                 parameter_data = json.loads(parameter_data)
                 col += 1
-                result_parameter = json.loads(result_parameter)
+                result_parameter = json.loads(result_parameter.replace("'","\""))
                 col += 1
                 draw_parameter = json.loads(draw_parameter)
                 col += 1
@@ -51,6 +52,14 @@ class Common(object):
             excel_data[test_name] = result_data
         excel_data['_name'] = _name
         return excel_data
+
+    @staticmethod
+    def api_write_data(page_name, data_address,row,col,write_data):
+        old_excel = xlrd.open_workbook(data_address,formatting_info=True)
+        new_excel = copy(old_excel)
+        newWs = new_excel.get_sheet(1)
+        newWs.write(row,col,write_data)
+        new_excel.save(data_address)
 
     @staticmethod
     def _token(result):
@@ -96,6 +105,15 @@ class Common(object):
                             assert '两种方式都获取不到token'
 
 
-# if __name__ == '_main_':
-# cc=Common.api_read_data1('test',r'D:\PyCharm_WorkSpace\auto_api-master\auto_protocol\api_config\testcase_data.xlsx')
-# print(cc)
+
+if __name__ == '__main__':
+
+    cc = Common.api_read_data('test',r'D:\PyCharm_WorkSpace\auto_api-master\auto_protocol\api_config\testcase_data.xls')
+    print(cc)
+    print("apiToken:"+cc["test_getUserInfo"]["_response"]["return_context"]["apiToken"])
+    print("results:" + cc["test_getUserInfo"]["_response"]["return_context"]["results"][0]["userid"])
+    print("channelId:" + cc["test_getUserInfo"]["_response"]["return_context"]["channelId"])
+    # data = str({"_response":{"return_code":"SUCCESS","return_context":{"status":0,"results":[{"type":"1","userid":"15269803060001","storeName":"啛啛喳喳错"}],"channelId":"11510000000000","replenishShopInfo":0,"apiToken":"d78f490d-2a45-484d-9267-3ab2164ace1f","expire":"2018-05-29 22:45:37"},"return_date":"2018-05-29 10:45:37","return_msg":"成功"}})
+    #
+    # w = Common.api_write_data('test',r'D:\PyCharm_WorkSpace\auto_api-master\auto_protocol\api_config\testcase_data.xls'
+    #                           ,2,5,data)
