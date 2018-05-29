@@ -1,10 +1,13 @@
 # -*- coding: UTF-8 -*-
 import sys
-sys.path.append("D:\\PyCharm_WorkSpace\\auto_api-master\\huiliongbang_Api_test\\")
-sys.path.append("D:\\PyCharm_WorkSpace\\auto_api-master\\common\\")
-sys.path.append("D:\\PyCharm_WorkSpace\\auto_api-master\\result\\")
-sys.path.append("D:\\PyCharm_WorkSpace\\auto_api-master\\")
 import os
+proDir = os.path.split(os.path.realpath(__file__))[0]
+proFDir = os.path.dirname(proDir)
+sys.path.append(proDir+"\\common\\")
+sys.path.append(proFDir+"\\log\\")
+sys.path.append(proFDir)
+# print(sys.path)
+
 import unittest
 import HTMLTestReportCN
 import readConfig

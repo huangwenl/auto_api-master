@@ -1,0 +1,36 @@
+2018-05-29 09:34:26,467 - sg_color_logger - INFO - INFO 读取caselist列表数据：#user/testLogin_Api
+
+2018-05-29 09:34:26,467 - sg_color_logger - INFO - INFO 读取caselist列表数据：buydodo/testBuydodoApi
+2018-05-29 09:34:26,467 - sg_color_logger - INFO - testBuydodoApi.py
+2018-05-29 09:34:26,545 - sg_color_logger - INFO - INFO **********开始测试***********
+2018-05-29 09:34:26,546 - sg_color_logger - INFO - INFO 请求头信息：{"Content-Type": "application/x-www-form-urlencoded", "User-Agent": "buydodo/1.2 (iPhone; iOS 11.0.3; Scale/2.00)"}
+2018-05-29 09:34:26,546 - sg_color_logger - INFO - INFO 接口地址：https://testfenrun.buydodo.com/controller/app/users/loginMD5
+2018-05-29 09:34:26,546 - sg_color_logger - INFO - INFO 参数：{"login": "{\"loginphone\" : \"13926175076\",\"appType\" : \"1\",\"loginpassword\" : \"e1b5146bb46325d63acc1f2959caacbe\",\"appVersion\" : \"2.0\"}", "client": "iOS", "clientVersion": "1.2", "d_model": "iPhone", "osVersion": "11.0.3", "networkType": "wifi"}
+2018-05-29 09:34:26,854 - sg_color_logger - INFO - INFO 接口返回数据：{"error":0,"status":0,"return_message":"成功","date":"2018-05-29 09:35:24","results":[{"type":"1","userid":"15269803060001"}],"channelId":"11510000000000","replenishShopInfo":0,"apiToken":"f64f38c7-4de1-4ec9-8462-82425b30ddf2","expire":"2018-05-29 21:35:24"}
+2018-05-29 09:34:26,854 - sg_color_logger - INFO - INFO 请求头信息：{"Content-Type": "application/x-www-form-urlencoded", "User-Agent": "buydodo/1.2 (iPhone; iOS 11.0.3; Scale/2.00)"}
+2018-05-29 09:34:26,854 - sg_color_logger - INFO - INFO 接口地址：https://testfenrun.buydodo.com/controller/app/users/loginMD5
+2018-05-29 09:34:26,854 - sg_color_logger - INFO - INFO 参数：{"login": "{\"loginphone\" : \"13926175076\",\"appType\" : \"1\",\"loginpassword\" : \"14e1b600b1fd579f47433b88e8d85291\",\"appVersion\" : \"2.0\"}", "client": "iOS", "clientVersion": "1.2", "d_model": "iPhone", "osVersion": "11.0.3", "networkType": "wifi"}
+2018-05-29 09:34:26,952 - sg_color_logger - INFO - INFO loginMD5 接口返回数据：{"error":0,"status":1,"return_message":"账号或密码错误","date":"2018-05-29 09:35:24"}
+2018-05-29 09:34:26,952 - sg_color_logger - INFO - INFO 请求头信息：{"Content-Type": "application/x-www-form-urlencoded", "User-Agent": "buydodo/1.2 (iPhone; iOS 11.0.3; Scale/2.00)"}
+2018-05-29 09:34:26,952 - sg_color_logger - INFO - INFO 接口地址：https://testfenrun.buydodo.com/controller/app/netease/getUserInf
+2018-05-29 09:34:26,952 - sg_color_logger - INFO - INFO 请求头信息：{"Content-Type": "application/x-www-form-urlencoded", "User-Agent": "buydodo/1.2 (iPhone; iOS 11.0.3; Scale/2.00)"}
+2018-05-29 09:34:26,952 - sg_color_logger - INFO - INFO 接口地址：https://testfenrun.buydodo.com/controller/app/goods/gethomepageCatagory
+2018-05-29 09:34:26,953 - sg_color_logger - INFO - INFO *********测试结束*********
+2018-05-29 09:36:38,074 - sg_color_logger - INFO - INFO 读取caselist列表数据：#user/testLogin_Api
+
+2018-05-29 09:36:38,074 - sg_color_logger - INFO - INFO 读取caselist列表数据：buydodo/testBuydodoApi
+2018-05-29 09:36:38,074 - sg_color_logger - INFO - testBuydodoApi.py
+2018-05-29 09:36:38,146 - sg_color_logger - INFO - INFO **********开始测试***********
+2018-05-29 09:36:38,147 - sg_color_logger - INFO - INFO 请求头信息：{"Content-Type": "application/x-www-form-urlencoded", "User-Agent": "buydodo/1.2 (iPhone; iOS 11.0.3; Scale/2.00)"}
+2018-05-29 09:36:38,147 - sg_color_logger - INFO - INFO 接口地址：https://testfenrun.buydodo.com/controller/app/users/loginMD5
+2018-05-29 09:36:38,147 - sg_color_logger - INFO - INFO 参数：{"login": "{\"loginphone\" : \"13926175076\",\"appType\" : \"1\",\"loginpassword\" : \"e1b5146bb46325d63acc1f2959caacbe\",\"appVersion\" : \"2.0\"}", "client": "iOS", "clientVersion": "1.2", "d_model": "iPhone", "osVersion": "11.0.3", "networkType": "wifi"}
+2018-05-29 09:36:38,417 - sg_color_logger - INFO - INFO 接口返回数据：{"error":0,"status":0,"return_message":"成功","date":"2018-05-29 09:37:36","results":[{"type":"1","userid":"15269803060001"}],"channelId":"11510000000000","replenishShopInfo":0,"apiToken":"17434898-1db6-43af-b6d8-a274538daacd","expire":"2018-05-29 21:37:36"}
+2018-05-29 09:36:38,418 - sg_color_logger - INFO - INFO 请求头信息：{"Content-Type": "application/x-www-form-urlencoded", "User-Agent": "buydodo/1.2 (iPhone; iOS 11.0.3; Scale/2.00)"}
+2018-05-29 09:36:38,418 - sg_color_logger - INFO - INFO 接口地址：https://testfenrun.buydodo.com/controller/app/users/loginMD5
+2018-05-29 09:36:38,418 - sg_color_logger - INFO - INFO 参数：{"login": "{\"loginphone\" : \"13926175076\",\"appType\" : \"1\",\"loginpassword\" : \"14e1b600b1fd579f47433b88e8d85291\",\"appVersion\" : \"2.0\"}", "client": "iOS", "clientVersion": "1.2", "d_model": "iPhone", "osVersion": "11.0.3", "networkType": "wifi"}
+2018-05-29 09:36:38,497 - sg_color_logger - INFO - INFO loginMD5 接口返回数据：{"error":0,"status":1,"return_message":"账号或密码错误","date":"2018-05-29 09:37:36"}
+2018-05-29 09:36:38,497 - sg_color_logger - INFO - INFO 请求头信息：{"Content-Type": "application/x-www-form-urlencoded", "User-Agent": "buydodo/1.2 (iPhone; iOS 11.0.3; Scale/2.00)"}
+2018-05-29 09:36:38,497 - sg_color_logger - INFO - INFO 接口地址：https://testfenrun.buydodo.com/controller/app/netease/getUserInf
+2018-05-29 09:36:38,498 - sg_color_logger - INFO - INFO 请求头信息：{"Content-Type": "application/x-www-form-urlencoded", "User-Agent": "buydodo/1.2 (iPhone; iOS 11.0.3; Scale/2.00)"}
+2018-05-29 09:36:38,498 - sg_color_logger - INFO - INFO 接口地址：https://testfenrun.buydodo.com/controller/app/goods/gethomepageCatagory
+2018-05-29 09:36:38,499 - sg_color_logger - INFO - INFO *********测试结束*********
