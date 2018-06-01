@@ -61,8 +61,8 @@
       <file leaf-file-name="testBuydodoApi.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/testCase/buydodo/testBuydodoApi.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="893">
-              <caret line="112" column="35" lean-forward="true" selection-start-line="112" selection-start-column="35" selection-end-line="112" selection-end-column="35" />
+            <state relative-caret-position="-1623">
+              <caret line="94" column="49" lean-forward="true" selection-start-line="94" selection-start-column="49" selection-end-line="94" selection-end-column="49" />
               <folding>
                 <element signature="e#50#71#0" expanded="true" />
                 <element signature="e#551#716#0" expanded="false" />
@@ -76,22 +76,10 @@
       <file leaf-file-name="runAll.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/runAll.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="969">
+            <state relative-caret-position="483">
               <caret line="80" column="13" lean-forward="false" selection-start-line="80" selection-start-column="13" selection-end-line="80" selection-end-column="13" />
               <folding>
                 <element signature="e#24#34#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="nosetest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/testCase/buydodo/nosetest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-              <folding>
-                <element signature="e#50#91#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -169,7 +157,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="131" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -409,7 +397,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="-8" width="1541" height="916" extended-state="7" />
+    <frame x="67" y="-8" width="1541" height="916" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -850,16 +838,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/testCase/buydodo/nosetest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-          <folding>
-            <element signature="e#50#91#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/caselist.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -868,9 +846,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/testCase/buydodo/nosetest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding>
+            <element signature="e#50#91#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/runAll.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
+        <state relative-caret-position="483">
           <caret line="80" column="13" lean-forward="false" selection-start-line="80" selection-start-column="13" selection-end-line="80" selection-end-column="13" />
           <folding>
             <element signature="e#24#34#0" expanded="true" />
@@ -880,8 +868,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/testCase/buydodo/testBuydodoApi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="893">
-          <caret line="112" column="35" lean-forward="true" selection-start-line="112" selection-start-column="35" selection-end-line="112" selection-end-column="35" />
+        <state relative-caret-position="-1623">
+          <caret line="94" column="49" lean-forward="true" selection-start-line="94" selection-start-column="49" selection-end-line="94" selection-end-column="49" />
           <folding>
             <element signature="e#50#71#0" expanded="true" />
             <element signature="e#551#716#0" expanded="false" />

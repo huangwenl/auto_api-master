@@ -67,13 +67,15 @@ class Buydodo_Api_Test(unittest.TestCase):
         channelId = json_re["return_context"]["channelId"]
 
         configHttp.set_url("/controller/app/netease/getUserInfo")
-        configHttp.set_data({
+        params = {
             "apiToken": apiToken, "channelId": channelId, "uid": userId, "imgUid": "15269803060001", "client": "iOS",
             "clientVersion": "1.2", "d_model": "iPhone", "osVersion": "11.0.3",
-            "networkType": "wifi"})
+            "networkType": "wifi"}
+        configHttp.set_data(params)
         response = configHttp.post()
         result = response.content.decode("utf-8")
         log.info("getUserInfo 接口返回数据：" + result)
+        ExcelUtils.api_write_data("test", 2, 4, json.dumps({"_params": params}))
         ExcelUtils.api_write_data("test", 2, 5, json.dumps({"_response": result}))
         re_json = json.loads(result)
         self.assertEqual(re_json["code"],200)
@@ -87,11 +89,12 @@ class Buydodo_Api_Test(unittest.TestCase):
         channelId = json_re["return_context"]["channelId"]
 
         configHttp.set_url("/controller/app/goods/gethomepageCatagory")
-        configHttp.set_params(
-            "apiToken=" + apiToken + "&channelId=" + channelId + "&client=iOS&clientVersion=1.2&d_model=iPhone&networkType=WiFi&osVersion=11.0.3&uid=" + userId)
+        params = "apiToken=" + apiToken + "&channelId=" + channelId + "&client=iOS&clientVersion=1.2&d_model=iPhone&networkType=WiFi&osVersion=11.0.3&uid=" + userId
+        configHttp.set_params(params)
         response = configHttp.get()
         result = response.content.decode("utf-8")
         log.info("gethomepageCatagory 接口返回数据：" + result)
+        ExcelUtils.api_write_data("test", 3, 4, json.dumps({"_params": params}))
         ExcelUtils.api_write_data("test", 3, 5, json.dumps({"_response": result}))
         re_json = json.loads(result)
         self.assertEqual(re_json["error"], 0, "error返回值不一致")
@@ -128,13 +131,15 @@ class Buydodo_Api_Test(unittest.TestCase):
         userId = json_re["return_context"]["results"][0]["userid"]
         channelId = json_re["return_context"]["channelId"]
         configHttp.set_url("/controller/app/goods/v41/getClassitfyProductlist")
-        configHttp.set_data({
+        params = {
             "apiToken": apiToken, "channelId": channelId, "uid": userId, "imgUid": "15269803060001", "client": "iOS",
             "clientVersion": "1.2", "d_model": "iPhone", "osVersion": "11.0.3",
-            "networkType": "wifi"})
+            "networkType": "wifi","pageCount":1,"sortType":1,"ifRecommend":2}
+        configHttp.set_data(params)
         response = configHttp.post()
         result = response.content.decode("utf-8")
         log.info("getClassitfyProductlist 接口返回数据：" + result)
+        ExcelUtils.api_write_data("test", 5, 4, json.dumps({"_params": params}))
         ExcelUtils.api_write_data("test", 5, 5, json.dumps({"_response": result}))
         re_json = json.loads(result)
         self.assertEqual(re_json["return_code"], "SUCCESS", msg="失败")
@@ -148,13 +153,15 @@ class Buydodo_Api_Test(unittest.TestCase):
         userId = json_re["return_context"]["results"][0]["userid"]
         channelId = json_re["return_context"]["channelId"]
         configHttp.set_url("/controller/app/ticket/v3/getTicketCpp")
-        configHttp.set_data({
+        params = {
             "apiToken": apiToken, "channelId": channelId, "uid": userId, "imgUid": "15269803060001", "client": "iOS",
             "clientVersion": "1.2", "d_model": "iPhone", "osVersion": "11.0.3",
-            "networkType": "wifi"})
+            "networkType": "wifi"}
+        configHttp.set_data(params)
         response = configHttp.post()
         result = response.content.decode("utf-8")
         log.info("getTicketCpp 接口返回数据：" + result)
+        ExcelUtils.api_write_data("test", 6, 4, json.dumps({"_params": params}))
         ExcelUtils.api_write_data("test", 6, 5, json.dumps({"_response": result}))
         re_json = json.loads(result)
         self.assertEqual(re_json["return_code"],"SUCCESS",msg="失败")
