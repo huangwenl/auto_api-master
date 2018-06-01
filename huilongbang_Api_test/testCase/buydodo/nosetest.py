@@ -39,12 +39,15 @@ class MyTestCase(unittest.TestCase):
         # 对于传入的第一个参数+1与第二个参数进行对比,相等就通过,否则就是不通过
         self.assertEqual(value2, value1 + 1)
 
-    @data(*get_data("test_login"))
+    # @data(*get_data("test_login"),*get_data("test_getUserInfo"))
+    @data([{"s":111}],[{"a":222}])
+    @unpack
     def test_file_data_json(self, value):
-       print(value["_response"])
-       print(value["_api"])
-       print(value["_params"][0])
-
+       # json_re = json.loads(value["_response"])
+       # print(json_re["return_context"]["channelId"])
+       # print(json_re["return_context"]["apiToken"])
+       # print(json_re["return_context"]["results"][0]["userid"])
+       print(value)
 
 if __name__ == '__main__':
     unittest.main()
