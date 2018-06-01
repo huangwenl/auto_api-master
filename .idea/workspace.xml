@@ -10,15 +10,16 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/auto_api_master$Unittests_in_nosetest_py.coverage" NAME="Unittests in nosetest.py Coverage Results" MODIFIED="1527815200534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huilongbang_Api_test/testCase/buydodo" />
     <SUITE FILE_PATH="coverage/auto_api_master$Unittests_in_te_py.coverage" NAME="Unittests in te.py Coverage Results" MODIFIED="1511431621947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huilongbang_Api_test" />
     <SUITE FILE_PATH="coverage/auto_api_master$Unittests_for_testRegister_Register_test_registuserMD5_olduser.coverage" NAME="Unittests for testRegister.Register.test_registuserMD5_olduser Coverage Results" MODIFIED="1512030623664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huilongbang_Api_test/testCase/LoginAndRegister" />
     <SUITE FILE_PATH="coverage/auto_api_master$Unittests_for_testPay4Enong_Pay4Enong_test_pay_withNoEnong.coverage" NAME="Unittests for testPay4Enong.Pay4Enong.test_pay_withNoEnong Coverage Results" MODIFIED="1513049906878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huilongbang_Api_test/testCase/gongyingshang" />
     <SUITE FILE_PATH="coverage/auto_api_master$Unittests_for_testLogin_Login_test_shouxin21.coverage" NAME="Unittests for testLogin.Login.test_shouxin21 Coverage Results" MODIFIED="1524043030966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huilongbang_Api_test/testCase/shouxin2" />
     <SUITE FILE_PATH="coverage/auto_api_master$Unittests_for_testRegister_Register_test_checkIfRegist_regist.coverage" NAME="Unittests for testRegister.Register.test_checkIfRegist_regist Coverage Results" MODIFIED="1511856419902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huilongbang_Api_test/testCase/LoginAndRegister" />
-    <SUITE FILE_PATH="coverage/auto_api_master$Unittests_for_testBuydodoApi_Buydodo_Api_Test_test_a_loginMD5_success.coverage" NAME="Unittests for testBuydodoApi.Buydodo_Api_Test.test_a_loginMD5_success Coverage Results" MODIFIED="1527587395157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huilongbang_Api_test/testCase/buydodo" />
+    <SUITE FILE_PATH="coverage/auto_api_master$Unittests_for_testBuydodoApi_Buydodo_Api_Test_test_a_loginMD5_success.coverage" NAME="Unittests for testBuydodoApi.Buydodo_Api_Test.test_a_loginMD5_success Coverage Results" MODIFIED="1527730270830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huilongbang_Api_test/testCase/buydodo" />
     <SUITE FILE_PATH="coverage/auto_api_master$Unittests_for_testLogin_Login_test_loginMD5_loginphoneIsNull.coverage" NAME="Unittests for testLogin.Login.test_loginMD5_loginphoneIsNull Coverage Results" MODIFIED="1511849775182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huilongbang_Api_test/testCase/LoginAndRegister" />
     <SUITE FILE_PATH="coverage/auto_api_master$html2text.coverage" NAME="html2text Coverage Results" MODIFIED="1514540959054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/readHtml" />
-    <SUITE FILE_PATH="coverage/auto_api_master$excelutils.coverage" NAME="excelutils Coverage Results" MODIFIED="1527587162512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huilongbang_Api_test/common" />
+    <SUITE FILE_PATH="coverage/auto_api_master$excelutils.coverage" NAME="excelutils Coverage Results" MODIFIED="1527675484003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huilongbang_Api_test/common" />
     <SUITE FILE_PATH="coverage/auto_api_master$Unittests_for_testLogin_Api_Login_api_test_test_loginMD5_passwordLessSix.coverage" NAME="Unittests for testLogin_Api.Login_api_test.test_loginMD5_passwordLessSix Coverage Results" MODIFIED="1511848621949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huilongbang_Api_test/testCase/user" />
     <SUITE FILE_PATH="coverage/auto_api_master$Unittests_for_testLogin_Login_test_loginMD5_sueccess.coverage" NAME="Unittests for testLogin.Login.test_loginMD5_sueccess Coverage Results" MODIFIED="1523414043267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huilongbang_Api_test/testCase/shouxin2" />
     <SUITE FILE_PATH="coverage/auto_api_master$Unittests_in_test_HTMLTestReportCN_py.coverage" NAME="Unittests in test_HTMLTestReportCN.py Coverage Results" MODIFIED="1511516399184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huilongbang_Api_test" />
@@ -27,7 +28,9 @@
     <SUITE FILE_PATH="coverage/auto_api_master$Unittests_for_testBuydodoApi_Buydodo_Api_Test_test_b_loginMD5_errorPwd.coverage" NAME="Unittests for testBuydodoApi.Buydodo_Api_Test.test_b_loginMD5_errorPwd Coverage Results" MODIFIED="1527585256080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huilongbang_Api_test/testCase/buydodo" />
     <SUITE FILE_PATH="coverage/auto_api_master$Unittests_for_te_TestStringMethods.coverage" NAME="Unittests for te.TestStringMethods Coverage Results" MODIFIED="1511431532867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huilongbang_Api_test" />
     <SUITE FILE_PATH="coverage/auto_api_master$Unittests_for_testRegister_Register_test_registuserMD5_newuser.coverage" NAME="Unittests for testRegister.Register.test_registuserMD5_newuser Coverage Results" MODIFIED="1512358352329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huilongbang_Api_test/testCase/LoginAndRegister" />
+    <SUITE FILE_PATH="coverage/auto_api_master$Unittests_for_nosetest_MyTestCase.coverage" NAME="Unittests for nosetest.MyTestCase Coverage Results" MODIFIED="1527675986043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huilongbang_Api_test/testCase/buydodo" />
     <SUITE FILE_PATH="coverage/auto_api_master$readConfig.coverage" NAME="readConfig Coverage Results" MODIFIED="1511443583056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huilongbang_Api_test" />
+    <SUITE FILE_PATH="coverage/auto_api_master$Unittests_for_testBuydodoApi_Buydodo_Api_Test_test_a_login.coverage" NAME="Unittests for testBuydodoApi.Buydodo_Api_Test.test_a_login Coverage Results" MODIFIED="1527764819959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huilongbang_Api_test/testCase/buydodo" />
     <SUITE FILE_PATH="coverage/auto_api_master$Unittests_for_testLogin_Login_test_sqe.coverage" NAME="Unittests for testLogin.Login.test_sqe Coverage Results" MODIFIED="1513842379301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huilongbang_Api_test/testCase/LoginAndRegister" />
     <SUITE FILE_PATH="coverage/auto_api_master$Log.coverage" NAME="Log Coverage Results" MODIFIED="1511444782126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huilongbang_Api_test/common" />
     <SUITE FILE_PATH="coverage/auto_api_master$MyDB.coverage" NAME="MyDB Coverage Results" MODIFIED="1512030997343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huilongbang_Api_test/common" />
@@ -44,7 +47,7 @@
     <SUITE FILE_PATH="coverage/auto_api_master$Unittests_for_login_Api_Login_api_test_test_login_success.coverage" NAME="Unittests for login_Api.Login_api_test.test_login_success Coverage Results" MODIFIED="1511432936860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huilongbang_Api_test" />
     <SUITE FILE_PATH="coverage/auto_api_master$Unittests_for_testLogin_Api_Login_api_test_test_oldUser_login.coverage" NAME="Unittests for testLogin_Api.Login_api_test.test_oldUser_login Coverage Results" MODIFIED="1511768560654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huilongbang_Api_test/testCase/user" />
     <SUITE FILE_PATH="coverage/auto_api_master$Unittests_for_testLogin_Login_test_shouxin2.coverage" NAME="Unittests for testLogin.Login.test_shouxin2 Coverage Results" MODIFIED="1524042878125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huilongbang_Api_test/testCase/shouxin2" />
-    <SUITE FILE_PATH="coverage/auto_api_master$runAll.coverage" NAME="runAll Coverage Results" MODIFIED="1527585094343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huilongbang_Api_test" />
+    <SUITE FILE_PATH="coverage/auto_api_master$runAll.coverage" NAME="runAll Coverage Results" MODIFIED="1527815361827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huilongbang_Api_test" />
     <SUITE FILE_PATH="coverage/auto_api_master$common.coverage" NAME="common Coverage Results" MODIFIED="1527582394169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core" />
     <SUITE FILE_PATH="coverage/auto_api_master$Unittests_for_testBuydodoApi_Buydodo_Api_Test.coverage" NAME="Unittests for testBuydodoApi.Buydodo_Api_Test Coverage Results" MODIFIED="1527585538552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huilongbang_Api_test/testCase/buydodo" />
     <SUITE FILE_PATH="coverage/auto_api_master$protocol_runner.coverage" NAME="protocol_runner Coverage Results" MODIFIED="1511422433873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_protocol" />
@@ -55,14 +58,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="testBuydodoApi.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="testBuydodoApi.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/testCase/buydodo/testBuydodoApi.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="36" column="27" lean-forward="true" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+            <state relative-caret-position="297">
+              <caret line="32" column="34" lean-forward="true" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
               <folding>
                 <element signature="e#50#71#0" expanded="true" />
-                <element signature="e#1638#2440#0" expanded="false" />
+                <element signature="e#1457#2483#0" expanded="false" />
+                <element signature="e#2533#3335#0" expanded="false" />
+                <element signature="e#3386#4344#0" expanded="false" />
+                <element signature="e#4404#5442#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="runAll.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/runAll.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="68" column="32" lean-forward="true" selection-start-line="68" selection-start-column="32" selection-end-line="68" selection-end-column="32" />
+              <folding>
+                <element signature="e#24#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nosetest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/testCase/buydodo/nosetest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+              <folding>
+                <element signature="e#50#91#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -71,23 +101,9 @@
       <file leaf-file-name="excelutils.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/common/excelutils.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="474">
-              <caret line="73" column="30" lean-forward="false" selection-start-line="73" selection-start-column="17" selection-end-line="73" selection-end-column="30" />
-              <folding>
-                <element signature="e#47#61#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="runAll.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/runAll.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="63" column="53" lean-forward="true" selection-start-line="63" selection-start-column="53" selection-end-line="63" selection-end-column="53" />
-              <folding>
-                <element signature="e#24#34#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="456">
+              <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -108,6 +124,7 @@
       <find>HTMLTestRunner</find>
       <find>BeautifulSoup</find>
       <find>caseFile</find>
+      <find>https://testfenrun.buydodo.com</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -135,7 +152,6 @@
         <option value="$PROJECT_DIR$/readHtml/readXmind.py" />
         <option value="$PROJECT_DIR$/readHtml/html2text.py" />
         <option value="$PROJECT_DIR$/huilongbang_Api_test/testCase/shouxin2/shouxin.py" />
-        <option value="$PROJECT_DIR$/huilongbang_Api_test/testCase/user/testUpdatePassword.py" />
         <option value="$PROJECT_DIR$/huilongbang_Api_test/testCase/buydodo/testRegister_inf.py" />
         <option value="$PROJECT_DIR$/huilongbang_Api_test/testCase/shouxin2/testLogin.py" />
         <option value="$PROJECT_DIR$/huilongbang_Api_test/testCase/user/testLogin_Api.py" />
@@ -147,9 +163,13 @@
         <option value="$PROJECT_DIR$/huilongbang_Api_test/config.ini" />
         <option value="$PROJECT_DIR$/huilongbang_Api_test/common/configHttp.py" />
         <option value="$PROJECT_DIR$/log/__init__.py" />
-        <option value="$PROJECT_DIR$/core/common.py" />
         <option value="$PROJECT_DIR$/huilongbang_Api_test/runAll.py" />
+        <option value="$PROJECT_DIR$/huilongbang_Api_test/testCase/user/testUpdatePassword.py" />
+        <option value="$PROJECT_DIR$/core/common.py" />
+        <option value="$PROJECT_DIR$/huilongbang_Api_test/testCase/buydodo/test_data_dict_dict.json" />
+        <option value="$PROJECT_DIR$/huilongbang_Api_test/testCase/buydodo/test.json" />
         <option value="$PROJECT_DIR$/huilongbang_Api_test/common/excelutils.py" />
+        <option value="$PROJECT_DIR$/huilongbang_Api_test/testCase/buydodo/nosetest.py" />
         <option value="$PROJECT_DIR$/huilongbang_Api_test/testCase/buydodo/testBuydodoApi.py" />
       </list>
     </option>
@@ -211,7 +231,44 @@
             <path>
               <item name="auto_api-master" type="b2602c69:ProjectViewProjectNode" />
               <item name="auto_api-master" type="462c0819:PsiDirectoryNode" />
+              <item name="auto_protocol" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auto_api-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto_api-master" type="462c0819:PsiDirectoryNode" />
               <item name="huilongbang_Api_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auto_api-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto_api-master" type="462c0819:PsiDirectoryNode" />
+              <item name="huilongbang_Api_test" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auto_api-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto_api-master" type="462c0819:PsiDirectoryNode" />
+              <item name="huilongbang_Api_test" type="462c0819:PsiDirectoryNode" />
+              <item name="result" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auto_api-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto_api-master" type="462c0819:PsiDirectoryNode" />
+              <item name="huilongbang_Api_test" type="462c0819:PsiDirectoryNode" />
+              <item name="result" type="462c0819:PsiDirectoryNode" />
+              <item name="20180601" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auto_api-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto_api-master" type="462c0819:PsiDirectoryNode" />
+              <item name="huilongbang_Api_test" type="462c0819:PsiDirectoryNode" />
+              <item name="testCase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auto_api-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto_api-master" type="462c0819:PsiDirectoryNode" />
+              <item name="huilongbang_Api_test" type="462c0819:PsiDirectoryNode" />
+              <item name="testCase" type="462c0819:PsiDirectoryNode" />
+              <item name="buydodo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -252,8 +309,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for testBuydodoApi.Buydodo_Api_Test.test_a_loginMD5_success">
-    <configuration name="Unittests for testBuydodoApi.Buydodo_Api_Test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.runAll">
+    <configuration name="Unittests for nosetest.MyTestCase" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -265,7 +322,22 @@
       <module name="auto_api" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;testBuydodoApi.Buydodo_Api_Test&quot;" />
+      <option name="_new_target" value="&quot;nosetest.MyTestCase&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for testBuydodoApi.Buydodo_Api_Test.test_a_login" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/huilongbang_Api_test/testCase/buydodo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="auto_api" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testBuydodoApi.Buydodo_Api_Test.test_a_login&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
     <configuration name="Unittests for testBuydodoApi.Buydodo_Api_Test.test_a_loginMD5_success" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
@@ -283,7 +355,7 @@
       <option name="_new_target" value="&quot;testBuydodoApi.Buydodo_Api_Test.test_a_loginMD5_success&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="Unittests for testBuydodoApi.Buydodo_Api_Test.test_b_loginMD5_errorPwd" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in nosetest.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -295,26 +367,8 @@
       <module name="auto_api" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;testBuydodoApi.Buydodo_Api_Test.test_b_loginMD5_errorPwd&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-    </configuration>
-    <configuration name="excelutils" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/huilongbang_Api_test/common" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="auto_api" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/huilongbang_Api_test/common/excelutils.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/huilongbang_Api_test/testCase/buydodo/nosetest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <configuration name="runAll" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -335,19 +389,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests for testBuydodoApi.Buydodo_Api_Test" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for testBuydodoApi.Buydodo_Api_Test.test_b_loginMD5_errorPwd" />
-      <item index="2" class="java.lang.String" itemvalue="Python.excelutils" />
-      <item index="3" class="java.lang.String" itemvalue="Python.runAll" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for testBuydodoApi.Buydodo_Api_Test.test_a_loginMD5_success" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests for testBuydodoApi.Buydodo_Api_Test.test_a_loginMD5_success" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in nosetest.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for nosetest.MyTestCase" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for testBuydodoApi.Buydodo_Api_Test.test_a_login" />
+      <item index="4" class="java.lang.String" itemvalue="Python.runAll" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests for testBuydodoApi.Buydodo_Api_Test.test_a_loginMD5_success" />
-        <item index="1" class="java.lang.String" itemvalue="Python.excelutils" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for testBuydodoApi.Buydodo_Api_Test" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for testBuydodoApi.Buydodo_Api_Test.test_b_loginMD5_errorPwd" />
-        <item index="4" class="java.lang.String" itemvalue="Python.runAll" />
+        <item index="0" class="java.lang.String" itemvalue="Python.runAll" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in nosetest.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for testBuydodoApi.Buydodo_Api_Test.test_a_login" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for testBuydodoApi.Buydodo_Api_Test.test_a_loginMD5_success" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for nosetest.MyTestCase" />
       </list>
     </recent_temporary>
   </component>
@@ -365,35 +419,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_testBuydodoApi_Buydodo_Api_Test - 2018.05.29 at 10h 56m 33s.xml">
-      <configuration name="Unittests for testBuydodoApi.Buydodo_Api_Test" configurationId="tests" />
+    <history-entry file="Unittests_for_testBuydodoApi_Buydodo_Api_Test_test_a_login - 2018.05.31 at 19h 07m 01s.xml">
+      <configuration name="Unittests for testBuydodoApi.Buydodo_Api_Test.test_a_login" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_testBuydodoApi_Buydodo_Api_Test - 2018.05.29 at 11h 04m 54s.xml">
-      <configuration name="Unittests for testBuydodoApi.Buydodo_Api_Test" configurationId="tests" />
+    <history-entry file="Unittests_in_nosetest_py - 2018.05.31 at 18h 29m 52s.xml">
+      <configuration name="Unittests in nosetest.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_testBuydodoApi_Buydodo_Api_Test - 2018.05.29 at 11h 08m 22s.xml">
-      <configuration name="Unittests for testBuydodoApi.Buydodo_Api_Test" configurationId="tests" />
+    <history-entry file="Unittests_in_nosetest_py - 2018.05.31 at 18h 30m 05s.xml">
+      <configuration name="Unittests in nosetest.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_testBuydodoApi_Buydodo_Api_Test - 2018.05.29 at 17h 15m 34s.xml">
-      <configuration name="Unittests for testBuydodoApi.Buydodo_Api_Test" configurationId="tests" />
+    <history-entry file="Unittests_in_nosetest_py - 2018.05.31 at 18h 30m 24s.xml">
+      <configuration name="Unittests in nosetest.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_testBuydodoApi_Buydodo_Api_Test - 2018.05.29 at 17h 18m 59s.xml">
-      <configuration name="Unittests for testBuydodoApi.Buydodo_Api_Test" configurationId="tests" />
+    <history-entry file="Unittests_in_nosetest_py - 2018.05.31 at 18h 30m 57s.xml">
+      <configuration name="Unittests in nosetest.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_testBuydodoApi_Buydodo_Api_Test_test_a_loginMD5_success - 2018.05.29 at 11h 03m 52s.xml">
-      <configuration name="Unittests for testBuydodoApi.Buydodo_Api_Test.test_a_loginMD5_success" configurationId="tests" />
+    <history-entry file="Unittests_in_nosetest_py - 2018.05.31 at 18h 57m 48s.xml">
+      <configuration name="Unittests in nosetest.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_testBuydodoApi_Buydodo_Api_Test_test_a_loginMD5_success - 2018.05.29 at 17h 49m 37s.xml">
-      <configuration name="Unittests for testBuydodoApi.Buydodo_Api_Test.test_a_loginMD5_success" configurationId="tests" />
+    <history-entry file="Unittests_in_nosetest_py - 2018.05.31 at 18h 58m 49s.xml">
+      <configuration name="Unittests in nosetest.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_testBuydodoApi_Buydodo_Api_Test_test_a_loginMD5_success - 2018.05.29 at 17h 49m 55s.xml">
-      <configuration name="Unittests for testBuydodoApi.Buydodo_Api_Test.test_a_loginMD5_success" configurationId="tests" />
+    <history-entry file="Unittests_in_nosetest_py - 2018.05.31 at 19h 02m 48s.xml">
+      <configuration name="Unittests in nosetest.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_testBuydodoApi_Buydodo_Api_Test_test_b_loginMD5_errorPwd - 2018.05.29 at 11h 41m 31s.xml">
-      <configuration name="Unittests for testBuydodoApi.Buydodo_Api_Test.test_b_loginMD5_errorPwd" configurationId="tests" />
+    <history-entry file="Unittests_in_nosetest_py - 2018.05.31 at 19h 12m 00s.xml">
+      <configuration name="Unittests in nosetest.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_testBuydodoApi_Buydodo_Api_Test_test_b_loginMD5_errorPwd - 2018.05.29 at 17h 14m 16s.xml">
-      <configuration name="Unittests for testBuydodoApi.Buydodo_Api_Test.test_b_loginMD5_errorPwd" configurationId="tests" />
+    <history-entry file="Unittests_in_nosetest_py - 2018.06.01 at 09h 06m 40s.xml">
+      <configuration name="Unittests in nosetest.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -404,7 +458,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32711443" sideWeight="0.5026008" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2650448" sideWeight="0.4973992" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2650448" sideWeight="0.4973992" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16137744" sideWeight="0.49551857" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -421,6 +475,28 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32711443" sideWeight="0.5026008" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2650448" sideWeight="0.4973992" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16137744" sideWeight="0.49551857" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24966533" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17603749" sideWeight="0.50448143" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45710626" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -440,42 +516,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/result/20180524/interface_test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/result/20180524/output.log" />
-    <entry file="file://C:/Program Files/Python36/Lib/HTMLTestReportCN.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="556" column="55" lean-forward="false" selection-start-line="556" selection-start-column="36" selection-end-line="556" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/HTMLTestReportCN.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-16905">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/index.html" />
-    <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/testCase/gongyingshang/testPay4Enong.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="17" column="58" lean-forward="false" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="58" />
-          <folding>
-            <element signature="e#50#71#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/testFile/__init__.py" />
     <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/testCase/user/testLogin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3000">
@@ -561,14 +601,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="85" column="23" lean-forward="true" selection-start-line="85" selection-start-column="23" selection-end-line="85" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/caselist.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -697,26 +729,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/testCase/user/testRegister.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2526">
-          <caret line="110" column="30" lean-forward="true" selection-start-line="110" selection-start-column="30" selection-end-line="110" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/result/20180528/20180528.log">
       <provider selected="true" editor-type-id="LogFileEditorProvider">
         <state relative-caret-position="324">
           <caret line="12" column="156" lean-forward="false" selection-start-line="12" selection-start-column="156" selection-end-line="12" selection-end-column="225" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auto_protocol/config_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -749,18 +765,6 @@
         <state relative-caret-position="254">
           <caret line="17" column="12" lean-forward="false" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/common.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="118" column="29" lean-forward="true" selection-start-line="118" selection-start-column="29" selection-end-line="118" selection-end-column="29" />
-          <folding>
-            <element signature="e#47#58#0" expanded="true" />
-            <element signature="e#2231#3032#0" expanded="false" />
-            <element signature="e#3087#3611#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -803,33 +807,129 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/runAll.py">
+    <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/testCase/user/testUpdatePassword.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="63" column="53" lean-forward="true" selection-start-line="63" selection-start-column="53" selection-end-line="63" selection-end-column="53" />
+        <state relative-caret-position="189">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
-            <element signature="e#24#34#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/testCase/user/testRegister.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="23" column="21" lean-forward="false" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python36/Lib/site-packages/ddt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="153" column="64" lean-forward="false" selection-start-line="153" selection-start-column="64" selection-end-line="153" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/testCase/buydodo/test.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto_protocol/config_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding>
+            <element signature="e#47#58#0" expanded="true" />
+            <element signature="e#2231#3032#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python36/Lib/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="301" column="4" lean-forward="false" selection-start-line="301" selection-start-column="4" selection-end-line="301" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/testCase/buydodo/test_data_dict_dict.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="6" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/caselist.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python36/Lib/site-packages/xlrd/sheet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="332" column="13" lean-forward="false" selection-start-line="332" selection-start-column="13" selection-end-line="332" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/common/excelutils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="73" column="30" lean-forward="false" selection-start-line="73" selection-start-column="17" selection-end-line="73" selection-end-column="30" />
+        <state relative-caret-position="456">
+          <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/testCase/buydodo/nosetest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
           <folding>
-            <element signature="e#47#61#0" expanded="true" />
+            <element signature="e#50#91#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/testCase/buydodo/testBuydodoApi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="36" column="27" lean-forward="true" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+        <state relative-caret-position="297">
+          <caret line="32" column="34" lean-forward="true" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
           <folding>
             <element signature="e#50#71#0" expanded="true" />
-            <element signature="e#1638#2440#0" expanded="false" />
+            <element signature="e#1457#2483#0" expanded="false" />
+            <element signature="e#2533#3335#0" expanded="false" />
+            <element signature="e#3386#4344#0" expanded="false" />
+            <element signature="e#4404#5442#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huilongbang_Api_test/runAll.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="68" column="32" lean-forward="true" selection-start-line="68" selection-start-column="32" selection-end-line="68" selection-end-column="32" />
+          <folding>
+            <element signature="e#24#34#0" expanded="true" />
           </folding>
         </state>
       </provider>

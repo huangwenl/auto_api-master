@@ -12,9 +12,7 @@ class ExcelUtils(object):
 
     @staticmethod
     def api_read_data(page_name, data_address=data_address):
-        """ 获取excel数据，并转化成dict
-
-        """
+        """ 获取excel数据，并转化成dict"""
         excel_data = {}
         _name = []
         book = xlrd.open_workbook(data_address)
@@ -26,7 +24,7 @@ class ExcelUtils(object):
             re_way = sheet.cell(row, 2).value
             address_data = sheet.cell(row, 3).value
             parameter_data = sheet.cell(row, 4).value
-            result_parameter = sheet.cell(row, 5).value
+            result_parameter = sheet.cell(row, 5).value.replace("'","\"")
             draw_parameter = sheet.cell(row, 6).value
             result_data = sheet.cell(row, 7).value
             col = 1
@@ -37,7 +35,7 @@ class ExcelUtils(object):
                 col += 1
                 parameter_data = json.loads(parameter_data)
                 col += 1
-                result_parameter = json.loads(result_parameter.replace("'","\""))
+                result_parameter = json.loads(result_parameter)
                 col += 1
                 draw_parameter = json.loads(draw_parameter)
                 col += 1
@@ -52,7 +50,7 @@ class ExcelUtils(object):
             result_data.update(draw_parameter)
             result_data.update(parameter_data)
             excel_data[test_name] = result_data
-        excel_data['_name'] = _name
+        excel_data["_name"] = _name
         return excel_data
 
     @staticmethod
@@ -63,14 +61,28 @@ class ExcelUtils(object):
         newWs.write(row,col,write_data)
         new_excel.save(data_address)
 
+    @staticmethod
+    def getColumnIndex(page_name, columnName,data_address=data_address):
+        book = xlrd.open_workbook(data_address)
+        sheet = book.sheet_by_name(page_name)
+        columnIndex = None
+        for i in range(sheet.ncols):
+            if (sheet.cell_value(0, i) == columnName):
+                columnIndex = i
+                break
+        return columnIndex
 
-if __name__ == '__main__':
 
-    cc = ExcelUtils.api_read_data('test')
-    print(cc)
+
+
+
+# if __name__ == '__main__':
+#
+#     cc = ExcelUtils.api_read_data('test')
+#     print(cc)
 #     print("apiToken:"+cc["test_getUserInfo"]["_response"]["return_context"]["apiToken"])
 #     print("results:" + cc["test_getUserInfo"]["_response"]["return_context"]["results"][0]["userid"])
 #     print("channelId:" + cc["test_getUserInfo"]["_response"]["return_context"]["channelId"])
 #     data = str({"_response":{"return_code":"SUCCESS","return_context":{"status":0,"results":[{"type":"1","userid":"15269803060001","storeName":"啛啛喳喳错"}],"channelId":"11510000000000","replenishShopInfo":0,"apiToken":"d78f490d-2a45-484d-9267-3ab2164ace1f","expire":"2018-05-29 22:45:37"},"return_date":"2018-05-29 10:45:37","return_msg":"成功"}})
 #
-#     w = ExcelUtils.api_write_data('test',2,5,data)
+#     w = ExcelUtils.api_write_data('test',4,5,data)

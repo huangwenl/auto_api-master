@@ -106,13 +106,13 @@ class Common(object):
 
 
 
-if __name__ == '__main__':
-
-    cc = Common.api_read_data('test',r'D:\PyCharm_WorkSpace\auto_api-master\auto_protocol\api_config\testcase_data.xls')
-    print(cc)
-    print("apiToken:"+cc["test_getUserInfo"]["_response"]["return_context"]["apiToken"])
-    print("results:" + cc["test_getUserInfo"]["_response"]["return_context"]["results"][0]["userid"])
-    print("channelId:" + cc["test_getUserInfo"]["_response"]["return_context"]["channelId"])
+# if __name__ == '__main__':
+#
+#     cc = Common.api_read_data('test',r'D:\PyCharm_WorkSpace\auto_api-master\auto_protocol\api_config\testcase_data.xls')
+#     print(cc)
+#     print("apiToken:"+cc["test_getUserInfo"]["_response"]["return_context"]["apiToken"])
+#     print("results:" + cc["test_getUserInfo"]["_response"]["return_context"]["results"][0]["userid"])
+#     print("channelId:" + cc["test_getUserInfo"]["_response"]["return_context"]["channelId"])
     # data = str({"_response":{"return_code":"SUCCESS","return_context":{"status":0,"results":[{"type":"1","userid":"15269803060001","storeName":"啛啛喳喳错"}],"channelId":"11510000000000","replenishShopInfo":0,"apiToken":"d78f490d-2a45-484d-9267-3ab2164ace1f","expire":"2018-05-29 22:45:37"},"return_date":"2018-05-29 10:45:37","return_msg":"成功"}})
     #
     # w = Common.api_write_data('test',r'D:\PyCharm_WorkSpace\auto_api-master\auto_protocol\api_config\testcase_data.xls'
