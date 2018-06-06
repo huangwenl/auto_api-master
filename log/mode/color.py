@@ -9,7 +9,7 @@ from huilongbang_Api_test import readConfig
 from datetime import datetime
 
 class ColorLogger(object):
-    logger = logging.getLogger('sg_color_logger')
+    logger = logging.getLogger('my_color_logger')
     # logger.setLevel(logging.info)
     # logger_handler = logging.StreamHandler(sys.stdout)
     # logger_handler.setFormatter(logging.Formatter('%(asctime)s %(message)s'))
@@ -34,7 +34,7 @@ class ColorLogger(object):
     # defined handler
     logger_handler = logging.FileHandler(os.path.join(logPath, str(datetime.now().strftime("%Y%m%d"))+".log"))
     # defined formatter
-    formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+    formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - [%(lineno)d] - %(message)s')
     # defined formatter
     logger_handler.setFormatter(formatter)
     # add handler
@@ -42,19 +42,19 @@ class ColorLogger(object):
 
     @classmethod
     def debug(cls, msg):
-        cls.logger.debug("DEBUG " + str(msg))
+        cls.logger.debug(str(msg))
 
     @classmethod
     def info(cls, msg):
-        cls.logger.info("INFO " + str(msg))
+        cls.logger.info(str(msg))
 
     @classmethod
     def error(cls, msg):
-        cls.logger.error(Fore.RED + "ERROR " + str(msg) + Style.RESET_ALL)
+        cls.logger.error(Fore.RED + str(msg) + Style.RESET_ALL)
 
     @classmethod
     def warn(cls, msg):
-        cls.logger.warning(Fore.YELLOW + "WARNING " + str(msg) + Style.RESET_ALL)
+        cls.logger.warning(Fore.YELLOW + str(msg) + Style.RESET_ALL)
 
     @classmethod
     def set_level(cls, level):
@@ -63,4 +63,4 @@ class ColorLogger(object):
         cls.logger.setLevel(level)
 
 # c=ColorLogger()
-# c.warn("lalla")
+# c.info("lalla")

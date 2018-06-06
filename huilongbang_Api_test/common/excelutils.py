@@ -72,7 +72,13 @@ class ExcelUtils(object):
                 break
         return columnIndex
 
-
+    @staticmethod
+    def get_data(numName,page_name):
+        datas = ExcelUtils.api_read_data(page_name)
+        list_json = []
+        d = datas[numName]
+        list_json.append(d)
+        return list_json
 
 
 

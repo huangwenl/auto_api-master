@@ -11,12 +11,12 @@ configHttp = ConfigHttp()
 log = ColorLogger()
 
 
-def get_data(numName):
-    datas = ExcelUtils.api_read_data('test')
-    list_json = []
-    d = datas[numName]
-    list_json.append(d)
-    return list_json
+# def get_data(numName):
+#     datas = ExcelUtils.api_read_data('test')
+#     list_json = []
+#     d = datas[numName]
+#     list_json.append(d)
+#     return list_json
 
 @ddt
 class Buydodo_Api_Test(unittest.TestCase):
@@ -28,7 +28,7 @@ class Buydodo_Api_Test(unittest.TestCase):
     def tearDown(self):
         pass
 
-    @data(*get_data("test_login"))
+    @data(*ExcelUtils.get_data("test_login","test"))
     def test_a_loginMD5_success(self, value):
         """正常账号登录  成功 接口/controller/app/login/loginMD5"""
         url = value["_api"]
@@ -58,7 +58,7 @@ class Buydodo_Api_Test(unittest.TestCase):
         self.assertEqual(int(response.status_code), 200, "不一致")
         self.assertEqual(re_json["return_context"]["return_message"], "账号或密码错误", "不一致")
 
-    @data(*get_data("test_login"))
+    @data(*ExcelUtils.get_data("test_login", "test"))
     def test_c_getUserInf_success(self,value):
         """获取用户信息 正常 接口/controller/app/netease/getUserInfo"""
         json_re = json.loads(value["_response"])
@@ -80,7 +80,7 @@ class Buydodo_Api_Test(unittest.TestCase):
         re_json = json.loads(result)
         self.assertEqual(re_json["code"],200)
 
-    @data(*get_data("test_login"))
+    @data(*ExcelUtils.get_data("test_login", "test"))
     def test_d_gethomepageCatagory_success(self,value):
         """获取首页信息  成功 接口/controller/app/goods/gethomepageCatagory"""
         json_re = json.loads(value["_response"])
@@ -101,7 +101,7 @@ class Buydodo_Api_Test(unittest.TestCase):
         self.assertEqual(re_json["status"], 0, "status返回值不一致")
         self.assertIsNotNone(re_json["results"], "results内容为空")
 
-    @data(*get_data("test_login"))
+    @data(*ExcelUtils.get_data("test_login", "test"))
     def test_e_getChannels_success(self,value):
         """获取首页频道  成功 接口/controller/app/channel/getChannels"""
         json_re = json.loads(value["_response"])
@@ -123,7 +123,7 @@ class Buydodo_Api_Test(unittest.TestCase):
         self.assertEqual(re_json["return_code"], "SUCCESS", msg="失败")
         self.assertIsNotNone(re_json["return_context"], msg="return_context数据为空")
 
-    @data(*get_data("test_login"))
+    @data(*ExcelUtils.get_data("test_login", "test"))
     def test_f_getClassitfyProductlist_success(self,value):
         """获取首页商品  成功 接口/controller/app/goods/v41/getClassitfyProductlist"""
         json_re = json.loads(value["_response"])
@@ -145,7 +145,7 @@ class Buydodo_Api_Test(unittest.TestCase):
         self.assertEqual(re_json["return_code"], "SUCCESS", msg="失败")
         self.assertIsNotNone(re_json["return_context"],msg="return_context数据为空")
 
-    @data(*get_data("test_login"))
+    @data(*ExcelUtils.get_data("test_login", "test"))
     def test_g_getTicketCpp_success(self,value):
         """获取首页弹框接口  成功 接口/controller/app/ticket/v3/getTicketCpp"""
         json_re = json.loads(value["_response"])
